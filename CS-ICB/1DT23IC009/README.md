@@ -1,10 +1,1 @@
-# Student Submission Folder
-
-Please place your project files for CS-ICB here.
-
-✅ Guidelines:
-- Include a `README.md` explaining your project (if applicable).
-- Upload only your own work.
-- Do not rename this folder.
-
-🎓 Good luck and happy coding!
+This program is a simple Classroom Management System that allows users to manage students and courses. It enables the addition of students and courses, enrollment of students in courses, and displaying the list of students enrolled in a specific course. The system uses two main classes: **Student**, which holds student information such as ID and name, and **Course**, which manages a list of students enrolled in the course. Data for students and courses is stored in `HashMap` collections, allowing for easy retrieval and management. The user interacts with the system through a text-based menu, performing actions like adding, enrolling, and displaying course enrollments.
